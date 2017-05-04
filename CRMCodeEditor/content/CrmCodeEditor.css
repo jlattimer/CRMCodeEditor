@@ -260,6 +260,7 @@ input.wrField, select.wrField {
     .toolbarButton:hover {
         background-color: #dadada;
         border-color: #c1c1c1;
+        cursor: pointer;
     }
 
     .toolbarButton:active {
